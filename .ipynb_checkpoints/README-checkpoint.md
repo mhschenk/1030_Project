@@ -1,10 +1,5 @@
 # 1030_Project
 
-python version
-sklearn version 0.21.3
-matplotlib version 3.1.1
-numpy version 1.17.1
-
 This project explores the intersection of technology and politics, especially the question of who posts about politics online. It was prepared as a semester-long project for DATA1030, taught by Andras Zsom at Brown University in Fall 2019. 
 
 The project makes use of two datasets. The original project proposal was based upon the Common Content of the 2018 Cooperative Congressional Election Study, which can be downloaded here: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/ZSBZ7K.
